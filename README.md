@@ -11,15 +11,6 @@
 
 ***
 Sou Pablo e trabalho com programação com foco em web desde 2004.
-Iniciei em 2001 com VisualBasic, fui para ircScript (mIRC), xHTML, etc.
-Ingressei no mercado de trabalho com Macromedia Flash, ActionScript e integração com XML (Backend)
-
-
-- 🌱 Atualmente estou estudando NextJS. Minha stack atual é Laravel PHP + MySQL
-- 🔭 Atualmente trabalhando em alguns projetos como: BuyPhone, Divam, (e projetos privados)
-
-
-
   
 <!--
 **pabloalexandrino/pabloalexandrino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
